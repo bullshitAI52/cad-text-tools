@@ -1,0 +1,6 @@
+.DS_Store
+*.bak
+*.dwl
+*.dwl2
+work/
+outputs/
